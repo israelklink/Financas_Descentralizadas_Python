@@ -1,2 +1,4 @@
 # Financas_Descentralizadas_Python
-Finançpas Descentralizadas utilizando Python
+Finanças Descentralizadas utilizando Python
+
+Unisawap_v2 - Simulação de pools de liquidez do Uniswap V2
